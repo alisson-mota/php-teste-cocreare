@@ -2,12 +2,12 @@
 <html>
 
 <head>
-
+    <title>Sequencia ordenada e números gerados aleatoriamente</title>
 </head>
 
 <body>
 
-<button type = submit onClick="window.history.go(0);"> SORTEAR UMA NOVA SEQUÊNCIA </button>
+    <button type = submit onClick="window.history.go(0);"> SORTEAR UMA NOVA SEQUÊNCIA </button>
 
     <h2>
 

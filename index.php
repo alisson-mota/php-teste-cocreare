@@ -13,7 +13,6 @@
         }
         $array[$i] = $random;
 
-
         echo nl2br("PASSO ".$i."\n\n");
         echo nl2br("sequência: ");        
         for($j = 0; $j < $i; $j++){
@@ -21,9 +20,6 @@
         }
         echo nl2br("\n\n");
         echo nl2br("numero que sera inserido: "." $random"."\n\n\n\n");
-
-
-
 
         for($w = 0; $w < $i; $w++){
             if($random < $array[$w]){
